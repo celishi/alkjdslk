@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\Reindeer.cs" />
     <Compile Include="Assets\scripts\grandma.cs" />
+    <Compile Include="Assets\scripts\Spawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
