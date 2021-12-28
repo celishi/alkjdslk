@@ -39,18 +39,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 2814374061
-    locked: 0
-  - name: TopLane
-    uniqueID: 2500476627
-    locked: 0
-  - name: MidLane
-    uniqueID: 1916578653
-    locked: 0
-  - name: BottomLane
-    uniqueID: 3278682005
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
